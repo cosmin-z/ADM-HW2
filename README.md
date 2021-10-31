@@ -1,6 +1,6 @@
 # ADM-HW2
 
-The main.ipynb contains all our answer. 
+The main.ipynb contains all our answers. 
 
 The images folder contains the pdf images uploaded to jupyter.
 
